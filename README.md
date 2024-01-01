@@ -4,7 +4,7 @@
 
 Through this application you can add items in your packing list while planning for your vacation.
 
-The manin features of this application are as follows -
+The main features of this application are as follows -
 
 1. Adding items to the list.
 2. Checking the items and marking it as packed.
